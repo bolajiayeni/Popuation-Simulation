@@ -8,7 +8,7 @@ root=Tk()
 root.configure(background="#aed6dc")
 
 
-root.title("Group Memebers")
+root.title("Group Memebers ")
 
 #creating a text label
 Label(root, text="Group 3's Members",font=("verdanna",20),fg="#4a536b",bg="#aed6dc",height=2).grid(row=0,rowspan=2,columnspan=2,sticky=N+E+W+S,padx=5,pady=5)
